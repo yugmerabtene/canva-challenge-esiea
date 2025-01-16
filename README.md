@@ -19,7 +19,8 @@
    - Ajouter des captures d'écran :  
      - Du code de chaque couche (backend, frontend, etc.).  
      - Des tables de la base de données (BDD).  
-     - Gestion des versions avec un Gitgraph.  
+     - Gestion des versions avec un Gitgraph.
+     - Outil d'analyse de la qualité du code. 
 
 7. **Phase de test**  
    - Inclure des captures d'écran des scripts de test automatisés ou manuels.  
