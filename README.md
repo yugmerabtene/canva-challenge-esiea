@@ -12,7 +12,7 @@
    - Détail des fonctionnalités principales et secondaires attendues.  
 
 5. **Analyse et Conception** :  
-   - a. **Use Case** : Présentation des cas d'utilisation pour représenter les interactions.  
+   - a. **Use Case** : Présentation des cas d'utilisation pour représenter les interactions (Draw.io).  
    - b. **Diagramme de Classe** : Modélisation UML des entités et de leurs relations.  
 
 6. **Développement**  
