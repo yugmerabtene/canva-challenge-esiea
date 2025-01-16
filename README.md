@@ -18,7 +18,7 @@
 6. **Développement**  
    - Ajouter des captures d'écran :  
      - Du code de chaque couche (backend, frontend, montrer un controller, un model,  un service , une vue, une ou deux securités).  
-     - Des tables de la base de données (BDD).  
+     - Schéma des tables de la base de données (BDD).  
      - Gestion des versions avec un Gitgraph.
      - Outil d'analyse de la qualité du code. 
 
